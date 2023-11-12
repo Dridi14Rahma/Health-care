@@ -1,0 +1,19 @@
+.table table-bordered {
+   max-width: 100px;
+}
+.element {
+  position: relative;
+  top: -30px;
+}
+.input{ 
+ 
+   padding: 50px;
+
+}
+.bu{
+  padding: 0 33em;
+  margin= 200px;
+}
+.input7 {
+   background-color: #E3F7F7;
+}
